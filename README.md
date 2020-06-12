@@ -91,4 +91,3 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 ![final_app_part2.png](Images/final_app_part2.png)
 
 
-Trilogy Education Services © 2019. All Rights Reserved.
